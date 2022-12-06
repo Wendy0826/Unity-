@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/Scripts/Lesson9_\u7236\u5B50\u5173\u7CFB/Lesson9.unity"
+- path: "Assets/Scripts/Lesson11_\u8F93\u5165\u76F8\u5173Input/Lesson11.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
