@@ -5,18 +5,18 @@ using UnityEngine;
 public class Lesson12练习题 : MonoBehaviour
 {
 
-    public GameObject Tank ;
-    
+    public GameObject Tank;
+    public GameObject obj;
+
     // Start is called before the first frame update
     void Start()
     {
-       GameObject obj = GameObject.Instantiate(Tank);
+        obj = GameObject.Instantiate(Tank);
     }
 
     // Update is called once per frame
     void Update()
     {
-        GameObject obj = GameObject.Find("Cube(Clone)");
         //1.使用之前的坦克预设体，用WASD控制坦克的前进后退，左右转向
         if (Input.GetKey(KeyCode.W))
         {
