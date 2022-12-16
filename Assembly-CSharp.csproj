@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\Lesson4_最小单位GameObject\Lesson4_练习题1.cs" />
     <Compile Include="Assets\Scripts\Lesson15_光源组件\Lesson15.cs" />
     <Compile Include="Assets\Scripts\Lesson3_Mono中的重要内容\练习题3_B.cs" />
+    <Compile Include="Assets\Scripts\Lesson16_物理系统碰撞检测\Lesson16.cs" />
     <Compile Include="Assets\Scripts\Lesson7_角度和旋转\Lesson7.cs" />
     <Compile Include="Assets\Scripts\Lesson9_父子关系\Lesson9.cs" />
     <Compile Include="Assets\Scripts\Lesson4_最小单位GameObject\Lesson4_练习题3_B.cs" />
@@ -86,13 +87,14 @@
     <Compile Include="Assets\Scripts\Lesson7_角度和旋转\Lesson7_练习题3.cs" />
     <Compile Include="Assets\Scripts\Lesson5_时间相关Time\Lesson5.cs" />
     <Compile Include="Assets\Scripts\Lesson4_最小单位GameObject\Lesson4_练习题2_A.cs" />
+    <Compile Include="Assets\rig.cs" />
     <Compile Include="Assets\Scripts\Lesson2_Inspector窗口可编辑的变量\Lesson2.cs" />
     <Compile Include="Assets\Scripts\Lesson8_缩放和看向\Lesson8.cs" />
     <Compile Include="Assets\Scripts\Lesson14_Camera代码相关\Lesson14.cs" />
     <Compile Include="Assets\Scripts\Lesson1_生命周期函数\Lesson1.cs" />
     <Compile Include="Assets\Scripts\Lesson14_Camera代码相关\练习题.cs" />
     <Compile Include="Assets\Scripts\Lesson6_位置和位移\Lesson6.cs" />
-    <Compile Include="Assets\Scripts\Lesson16_物理系统碰撞检测\Lesson16.cs" />
+    <Compile Include="Assets\Scripts\Lesson17_物理系统刚体加力\Lesson17.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
