@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Lesson10_坐标转换\Lesson10_练习题.cs" />
+    <Compile Include="Assets\Scripts\Lesson17_物理系统刚体加力\Lesson17.cs" />
     <Compile Include="Assets\Scripts\Lesson11_输入相关Input\Lesson11练习题.cs" />
     <Compile Include="Assets\Scripts\Lesson6_位置和位移\Lesson6_练习题1.cs" />
     <Compile Include="Assets\Scripts\Lesson8_缩放和看向\Lesson8_练习题.cs" />
@@ -94,7 +95,6 @@
     <Compile Include="Assets\Scripts\Lesson1_生命周期函数\Lesson1.cs" />
     <Compile Include="Assets\Scripts\Lesson14_Camera代码相关\练习题.cs" />
     <Compile Include="Assets\Scripts\Lesson6_位置和位移\Lesson6.cs" />
-    <Compile Include="Assets\Scripts\Lesson17_物理系统刚体加力\Lesson17.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
